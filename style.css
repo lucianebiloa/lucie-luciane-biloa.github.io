@@ -36,7 +36,7 @@ nav ul li a {
 }
 
 nav ul li a:hover {
-  color: #ffb6d9;
+  color: #8a0d49;
 }
 
 /* --- En-tête --- */
@@ -99,5 +99,16 @@ footer {
   color: #ff69b4;
   font-size: 14px;
   border-top: 3px solid #ff69b4;
+}
+section a {
+  color: #ff69b4;
+  text-decoration: none;
+  font-size: 16px;
+  font-weight: 500;
+}
+
+section a:hover {
+  color: #ffb6d9;
+  text-decoration: underline;
 }
 
